@@ -31,7 +31,7 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 
 ## La liste des Bonnes Pratiques
 
-* [Éliminer les fonctionnalités non essentielles](/chapters/BP_001_fr.md)
+* [Éliminer les fonctionnalités non essentielles](/chapters/BP_001_fr.md) :white_check_mark:
 * [Quantifier précisément le besoin](/chapters/BP_002_fr.md)
 * [Optimiser le parcours utilisateur](/chapters/BP_003_fr.md)
 * [Préférer la saisie assistée à l'autocomplétion](/chapters/BP_004_fr.md)
@@ -42,7 +42,7 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 * [Limiter le nombre de requêtes HTTP](/chapters/BP_009_fr.md)
 * [Stocker les données statiques localement](/chapters/BP_010_fr.md)
 * [Favoriser un développement sur-mesure à l'usage d'un CMS](/chapters/BP_011_fr.md)
-* [Favoriser les pages statiques](/chapters/BP_013_fr.md)
+* [Favoriser les pages statiques](/chapters/BP_013_fr.md) :white_check_mark:
 * [Créer une architecture applicative modulaire](/chapters/BP_014_fr.md)
 * [Choisir les technologies les plus adaptées](/chapters/BP_015_fr.md)
 * [Utiliser certains forks applicatifs orientés "performance"](/chapters/BP_016_fr.md)
@@ -87,7 +87,7 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 * [Minifier les fichiers CSS, JavaScript, HTML et SVG](/chapters/BP_077_fr.md)
 * [Compresser les fichiers CSS, JavaScript, HTML et SVG](/chapters/BP_078_fr.md)
 * [Combiner les fichiers CSS et JavaScript](/chapters/BP_079_fr.md)
-* [Optimiser les images](/chapters/BP_080_fr.md)
+* [Optimiser les images](/chapters/BP_080_fr.md) :white_check_mark:
 * [Optimiser la taille des cookies](/chapters/BP_082_fr.md)
 * [Favoriser HSTS Preload list aux redirections 301](/chapters/BP_084_fr.md)
 * [Mettre en place un plan de fin de vie du site](/chapters/BP_085_fr.md)
